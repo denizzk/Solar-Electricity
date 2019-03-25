@@ -7,10 +7,9 @@ import java.util.TreeMap;
 
 import com.dkarakaya.models.SolarPanel;
 import com.dkarakaya.models.Weather;
+import com.dkarakaya.services.SolarPanelService;
 import com.dkarakaya.util.Constants;
 import com.dkarakaya.util.Util;
-
-import services.SolarPanelService;
 
 public class HourlyProducedPower {
 

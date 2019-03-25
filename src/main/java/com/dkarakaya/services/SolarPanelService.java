@@ -1,12 +1,11 @@
-package services;
+package com.dkarakaya.services;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.dkarakaya.databasehelper.DatabaseConnection;
 import com.dkarakaya.models.SolarPanel;
-
-import databasehelper.DatabaseConnection;
 
 public class SolarPanelService {
 

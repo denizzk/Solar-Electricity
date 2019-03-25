@@ -6,9 +6,8 @@ import java.util.Map;
 import java.util.TreeMap;
 
 import com.dkarakaya.models.SolarPanel;
+import com.dkarakaya.services.SolarPanelService;
 import com.dkarakaya.util.Constants;
-
-import services.SolarPanelService;
 
 public class DailyGeneratedElectricityMonetaryValue {
 

@@ -1,4 +1,4 @@
-package databasehelper;
+package com.dkarakaya.databasehelper;
 
 import java.sql.*;
 
